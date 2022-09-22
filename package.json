@@ -5,5 +5,9 @@
   "main": "index.js",
   "author": "jonandonigv <jonandonigv@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "eslint": "^8.23.1",
+    "husky": "^8.0.1"
+  }
 }
